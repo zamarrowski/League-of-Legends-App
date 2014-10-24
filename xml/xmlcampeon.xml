@@ -1,0 +1,2139 @@
+<campeones><aatrox><vida>
+            395 (+85 por nivel)
+        </vida><mana></mana><daño>
+            55 (+3.2 por nivel)
+        </daño><velocataque>
+            0.651 (+3% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            5.75 (+0.5 por nivel)
+        </regvida><regmana></regmana><armadura>
+            18 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></aatrox><ahri><vida>
+            380 (+80 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            50 (+3 por nivel)
+        </daño><velocataque>
+            0.668 (+2% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            5.5 (+0.6 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            15 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></ahri><akali><vida>
+            445 (+85 por nivel)
+        </vida><mana>
+            200
+        </mana><daño>
+            53 (+3.2 por nivel)
+        </daño><velocataque>
+            0.694 (+3.1% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.25 (+0.65 por nivel)
+        </regvida><regmana>
+            50
+        </regmana><armadura>
+            20.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></akali><alistar><vida>
+            442 (+102 por nivel)
+        </vida><mana>
+            215 (+38 por nivel)
+        </mana><daño>
+            55.03 (+3.62 por nivel)
+        </daño><velocataque>
+            0.625 (+2.125% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            7.25 (+0.85 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            18.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></alistar><amumu><vida>
+            472 (+84 por nivel)
+        </vida><mana>
+            220 (+40 por nivel)
+        </mana><daño>
+            47 (+3.8 por nivel)
+        </daño><velocataque>
+            0.638 (+2.18% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7.45 (+0.85 por nivel)
+        </regvida><regmana>
+            6.5 (+0.525 por nivel)
+        </regmana><armadura>
+            22 (+3.3 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></amumu><anivia><vida>
+            350 (+70 por nivel)
+        </vida><mana>
+            257 (+53 por nivel)
+        </mana><daño>
+            48 (+3.2 por nivel)
+        </daño><velocataque>
+            0.625 (+1.68% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            4.65 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            14.5 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></anivia><annie><vida>
+            384 (+76 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            48 (+2.625 por nivel)
+        </daño><velocataque>
+            0.579 (+1.36% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            12.5 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></annie><ashe><vida>
+            395 (+79 por nivel)
+        </vida><mana>
+            173 (+35 por nivel)
+        </mana><daño>
+            46.3 (+2.85 por nivel)
+        </daño><velocataque>
+            0.658 (+4% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.3 (+0.4 por nivel)
+        </regmana><armadura>
+            15.5 (+3.4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></ashe><blitzcrank><vida>
+            423 (+95 por nivel)
+        </vida><mana>
+            200 (+40 por nivel)
+        </mana><daño>
+            55.66 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+1.13% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            7.25 (+0.75 por nivel)
+        </regvida><regmana>
+            6.6 (+0.5 por nivel)
+        </regmana><armadura>
+            18.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></blitzcrank><brand><vida>
+            380 (+76 por nivel)
+        </vida><mana>
+            250 (+45 por nivel)
+        </mana><daño>
+            52 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+1.36% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            16 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></brand><braum><vida>
+            430 (+87 por nivel)
+        </vida><mana>
+            235 (+45 por nivel)
+        </mana><daño>
+            50 (+3.2 por nivel)
+        </daño><velocataque>
+            0.644 (+3.5% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            6.5 (+1 por nivel)
+        </regvida><regmana>
+            5.5 (+0.8 por nivel)
+        </regmana><armadura>
+            20 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></braum><caitlyn><vida>
+            390 (+80 por nivel)
+        </vida><mana>
+            255 (+35 por nivel)
+        </mana><daño>
+            47 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+4% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            4.75 (+0.55 por nivel)
+        </regvida><regmana>
+            6.5 (+0.55 por nivel)
+        </regmana><armadura>
+            17 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></caitlyn><cassiopeia><vida>
+            380 (+75 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            47 (+3.2 por nivel)
+        </daño><velocataque>
+            0.647 (+1.68% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.85 (+0.5 por nivel)
+        </regvida><regmana>
+            7.1 (+0.75 por nivel)
+        </regmana><armadura>
+            15.5 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></cassiopeia><chogath><vida>
+            440 (+80 por nivel)
+        </vida><mana>
+            205 (+40 por nivel)
+        </mana><daño>
+            54.1 (+4.2 por nivel)
+        </daño><velocataque>
+            0.625 (+1.44% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.5 (+0.85 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            23 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></chogath><corki><vida>
+            375 (+82 por nivel)
+        </vida><mana>
+            243 (+37 por nivel)
+        </mana><daño>
+            48.2 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.3% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.5 (+0.55 por nivel)
+        </regmana><armadura>
+            17.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></corki><darius><vida>
+            426 (+93 por nivel)
+        </vida><mana>
+            200 (+37.5 por nivel)
+        </mana><daño>
+            50 (+3.5 por nivel)
+        </daño><velocataque>
+            0.679 (+2.65% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            8.25 (+0.95 por nivel)
+        </regvida><regmana>
+            6 (+0.35 por nivel)
+        </regmana><armadura>
+            24 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></darius><diana><vida>
+            438 (+90 por nivel)
+        </vida><mana>
+            230 (+40 por nivel)
+        </mana><daño>
+            48 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.25% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            6 (+0.85 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            20 (+3.6 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></diana><drmundo><vida>
+            433 (+89 por nivel)
+        </vida><mana>
+            230 (+40 por nivel)
+        </mana><daño>
+            56.23 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.8% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            6.5 (+0.75 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            21 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></drmundo><draven><vida>
+            420 (+82 por nivel)
+        </vida><mana>
+            240 (+42 por nivel)
+        </mana><daño>
+            46.5 (+3.5 por nivel)
+        </daño><velocataque>
+            0.679 (+2.7% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            5 (+0.7 por nivel)
+        </regvida><regmana>
+            6.95 (+0.65 por nivel)
+        </regmana><armadura>
+            20 (+3.3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></draven><elise><vida>
+            395 (+80 por nivel)
+        </vida><mana>
+            240 (+50 por nivel)
+        </mana><daño>
+            47.5 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+1.75% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.7 (+0.6 por nivel)
+        </regvida><regmana>
+            6.8 (+0.65 por nivel)
+        </regmana><armadura>
+            16.5 (+3.35 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></elise><evelynn><vida>
+            380 (+90 por nivel)
+        </vida><mana>
+            190 (+45 por nivel)
+        </mana><daño>
+            48 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+3.6% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            8.9 (+0.55 por nivel)
+        </regvida><regmana>
+            7.1 (+0.6 por nivel)
+        </regmana><armadura>
+            16 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></evelynn><ezreal><vida>
+            350 (+80 por nivel)
+        </vida><mana>
+            235 (+45 por nivel)
+        </mana><daño>
+            47.2 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.8% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5.5 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.65 por nivel)
+        </regmana><armadura>
+            16 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></ezreal><fiddlesticks><vida>
+            390 (+80 por nivel)
+        </vida><mana>
+            251 (+59 por nivel)
+        </mana><daño>
+            45.95 (+2.625 por nivel)
+        </daño><velocataque>
+            0.625 (+2.11% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.6 (+0.6 por nivel)
+        </regvida><regmana>
+            6.9 (+0.65 por nivel)
+        </regmana><armadura>
+            15 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></fiddlesticks><fiora><vida>
+            450 (+85 por nivel)
+        </vida><mana>
+            220 (+40 por nivel)
+        </mana><daño>
+            54.5 (+3.2 por nivel)
+        </daño><velocataque>
+            0.672 (+3% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            5.5 (+0.8 por nivel)
+        </regvida><regmana>
+            6.75 (+0.5 por nivel)
+        </regmana><armadura>
+            19 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></fiora><fizz><vida>
+            414 (+86 por nivel)
+        </vida><mana>
+            200 (+40 por nivel)
+        </mana><daño>
+            53 (+3 por nivel)
+        </daño><velocataque>
+            0.658 (+3.1% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7 (+0.7 por nivel)
+        </regvida><regmana>
+            6.1 (+0.45 por nivel)
+        </regmana><armadura>
+            16.7 (+3.4 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></fizz><galio><vida>
+            435 (+85 por nivel)
+        </vida><mana>
+            235 (+50 por nivel)
+        </mana><daño>
+            56.3 (+3.375 por nivel)
+        </daño><velocataque>
+            0.638 (+1.2% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7.45 (+0.75 por nivel)
+        </regvida><regmana>
+            7 (+0.7 por nivel)
+        </regmana><armadura>
+            21 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></galio><gangplank><vida>
+            495 (+81 por nivel)
+        </vida><mana>
+            215 (+40 por nivel)
+        </mana><daño>
+            54 (+3 por nivel)
+        </daño><velocataque>
+            0.651 (+2.75% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            4.25 (+0.75 por nivel)
+        </regvida><regmana>
+            6.5 (+0.7 por nivel)
+        </regmana><armadura>
+            20.5 (+3.3 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></gangplank><garen><vida>
+            455 (+96 por nivel)
+        </vida><mana>
+            215 (+40 por nivel)
+        </mana><daño>
+            52 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+2.9% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7 (+0.5 por nivel)
+        </regvida><regmana>
+            6.5 (+0.7 por nivel)
+        </regmana><armadura>
+            23 (+2.7 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></garen><gragas><vida>
+            434 (+89 por nivel)
+        </vida><mana>
+            221 (+47 por nivel)
+        </mana><daño>
+            55.5 (+3.5 por nivel)
+        </daño><velocataque>
+            0.651 (+2.05% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            7.25 (+0.85 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            20 (+3.6 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></gragas><graves><vida>
+            410 (+84 por nivel)
+        </vida><mana>
+            255 (+40 por nivel)
+        </mana><daño>
+            51 (+3.1 por nivel)
+        </daño><velocataque>
+            0.625 (+2.9% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            5.5 (+0.7 por nivel)
+        </regvida><regmana>
+            6.75 (+0.7 por nivel)
+        </regmana><armadura>
+            19 (+3.2 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></graves><hecarim><vida>
+            440 (+95 por nivel)
+        </vida><mana>
+            210 (+40 por nivel)
+        </mana><daño>
+            56 (+3.2 por nivel)
+        </daño><velocataque>
+            0.670 (+2.5% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            8 (+0.75 por nivel)
+        </regvida><regmana>
+            6.5 (+0.6 por nivel)
+        </regmana><armadura>
+            20 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></hecarim><heimerdinger><vida>
+            350 (+75 por nivel)
+        </vida><mana>
+            240 (+40 por nivel)
+        </mana><daño>
+            53 (+2.7 por nivel)
+        </daño><velocataque>
+            0.625 (+1.36% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            0 (+0.6 por nivel)
+        </regvida><regmana>
+            6 (+0.6 por nivel)
+        </regmana><armadura>
+            14 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></heimerdinger><irelia><vida>
+            456 (+90 por nivel)
+        </vida><mana>
+            230 (+35 por nivel)
+        </mana><daño>
+            56 (+3.3 por nivel)
+        </daño><velocataque>
+            0.665 (+3.2% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.5 (+0.65 por nivel)
+        </regvida><regmana>
+            7 (+0.65 por nivel)
+        </regmana><armadura>
+            19 (+3.75 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></irelia><janna><vida>
+            356 (+78 por nivel)
+        </vida><mana>
+            302 (+64 por nivel)
+        </mana><daño>
+            49 (+2.95 por nivel)
+        </daño><velocataque>
+            0.625 (+2.61% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            13 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></janna><jarvaniv><vida>
+            420 (+90 por nivel)
+        </vida><mana>
+            235 (+40 por nivel)
+        </mana><daño>
+            50 (+3.4 por nivel)
+        </daño><velocataque>
+            0.658 (+2.5% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            7 (+0.7 por nivel)
+        </regvida><regmana>
+            6 (+0.45 por nivel)
+        </regmana><armadura>
+            18 (+3.6 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></jarvaniv><jax><vida>
+            450 (+85 por nivel)
+        </vida><mana>
+            230 (+35 por nivel)
+        </mana><daño>
+            56.3 (+3.375 por nivel)
+        </daño><velocataque>
+            0.638 (+3.4% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.45 (+0.55 por nivel)
+        </regvida><regmana>
+            6.4 (+0.7 por nivel)
+        </regmana><armadura>
+            22 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></jax><jayce><vida>
+            420 (+90 por nivel)
+        </vida><mana>
+            240 (+40 por nivel)
+        </mana><daño>
+            46.5 (+3.5 por nivel)
+        </daño><velocataque>
+            0.658 (+3% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            6 (+0.8 por nivel)
+        </regvida><regmana>
+            7 (+0.7 por nivel)
+        </regmana><armadura>
+            16.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></jayce><jinx><vida>
+            380 (+82 por nivel)
+        </vida><mana>
+            170 (+45 por nivel)
+        </mana><daño>
+            50 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+1% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5 (+0.5 por nivel)
+        </regvida><regmana>
+            5 (+1 por nivel)
+        </regmana><armadura>
+            17 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></jinx><karma><vida>
+            383 (+83 por nivel)
+        </vida><mana>
+            290 (+50 por nivel)
+        </mana><daño>
+            50 (+3.3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.3% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.7 (+0.55 por nivel)
+        </regvida><regmana>
+            6.8 (+0.65 por nivel)
+        </regmana><armadura>
+            14 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></karma><karthus><vida>
+            390 (+75 por nivel)
+        </vida><mana>
+            270 (+61 por nivel)
+        </mana><daño>
+            42.2 (+3.25 por nivel)
+        </daño><velocataque>
+            0.625 (+2.11% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            5.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.5 (+0.6 por nivel)
+        </regmana><armadura>
+            15 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></karthus><kassadin><vida>
+            433 (+78 por nivel)
+        </vida><mana>
+            230 (+70 por nivel)
+        </mana><daño>
+            52.3 (+3.9 por nivel)
+        </daño><velocataque>
+            0.640 (+3.7% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            6.95 (+0.5 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            18 (+3.2 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></kassadin><katarina><vida>
+            425 (+80 por nivel)
+        </vida><mana>
+            230 (+70 por nivel)
+        </mana><daño>
+            53 (+3.2 por nivel)
+        </daño><velocataque>
+            0.658 (+2.74% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            6.95 (+0.55 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            21 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></katarina><kayle><vida>
+            418 (+93 por nivel)
+        </vida><mana>
+            255 (+40 por nivel)
+        </mana><daño>
+            53.3 (+2.8 por nivel)
+        </daño><velocataque>
+            0.638 (+2.2% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7 (+0.75 por nivel)
+        </regvida><regmana>
+            6.9 (+0.525 por nivel)
+        </regmana><armadura>
+            21 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></kayle><kennen><vida>
+            403 (+79 por nivel)
+        </vida><mana>
+            200
+        </mana><daño>
+            47 (+3.3 por nivel)
+        </daño><velocataque>
+            0.690 (+3.4% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.5 (+0.65 por nivel)
+        </regvida><regmana>
+            50
+        </regmana><armadura>
+            18 (+3.75 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></kennen><khazix><vida>
+            430 (+85 por nivel)
+        </vida><mana>
+            260 (+40 por nivel)
+        </mana><daño>
+            50 (+3.1 por nivel)
+        </daño><velocataque>
+            0.668 (+2.7% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            6.25 (+0.75 por nivel)
+        </regvida><regmana>
+            6.75 (+0.5 por nivel)
+        </regmana><armadura>
+            19 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></khazix><kogmaw><vida>
+            400 (+87 por nivel)
+        </vida><mana>
+            255 (+40 por nivel)
+        </mana><daño>
+            46 (+3 por nivel)
+        </daño><velocataque>
+            0.665 (+2.65% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5 (+0.55 por nivel)
+        </regvida><regmana>
+            7.5 (+0.7 por nivel)
+        </regmana><armadura>
+            14 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></kogmaw><leblanc><vida>
+            390 (+75 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            51 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+1.4% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            6.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            16 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></leblanc><leesin><vida>
+            428 (+85 por nivel)
+        </vida><mana>
+            200
+        </mana><daño>
+            55.8 (+3.2 por nivel)
+        </daño><velocataque>
+            0.651 (+3% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            8.25 (+0.7 por nivel)
+        </regvida><regmana>
+            50
+        </regmana><armadura>
+            20 (+3.7 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></leesin><leona><vida>
+            430 (+87 por nivel)
+        </vida><mana>
+            235 (+40 por nivel)
+        </mana><daño>
+            55 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.9% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7 (+0.85 por nivel)
+        </regvida><regmana>
+            7 (+0.7 por nivel)
+        </regmana><armadura>
+            22 (+3.1 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></leona><lissandra><vida>
+            365 (+84 por nivel)
+        </vida><mana>
+            220 (+50 por nivel)
+        </mana><daño>
+            48 (+2.7 por nivel)
+        </daño><velocataque>
+            0.625 (+1.36% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            6 (+0.55 por nivel)
+        </regvida><regmana>
+            5 (+0.4 por nivel)
+        </regmana><armadura>
+            14 (+3.7 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></lissandra><lucian><vida>
+            420 (+80 por nivel)
+        </vida><mana>
+            230 (+41 por nivel)
+        </mana><daño>
+            49 (+3 por nivel)
+        </daño><velocataque>
+            0.638 (+3.3% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            5.1 (+0.65 por nivel)
+        </regvida><regmana>
+            7 (+0.7 por nivel)
+        </regmana><armadura>
+            19 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></lucian><lulu><vida>
+            415 (+82 por nivel)
+        </vida><mana>
+            200 (+55 por nivel)
+        </mana><daño>
+            44 (+2.6 por nivel)
+        </daño><velocataque>
+            0.625 (+2.25% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5 (+0.6 por nivel)
+        </regvida><regmana>
+            5 (+0.5 por nivel)
+        </regmana><armadura>
+            13 (+3.7 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></lulu><lux><vida>
+            345 (+79 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            50 (+3.3 por nivel)
+        </daño><velocataque>
+            0.625 (+1.36% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6 (+0.6 por nivel)
+        </regmana><armadura>
+            12 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></lux><masteryi><vida>
+            444 (+92 por nivel)
+        </vida><mana>
+            180 (+42 por nivel)
+        </mana><daño>
+            55 (+3 por nivel)
+        </daño><velocataque>
+            0.679 (+2% por nivel)
+        </velocataque><velocidad>
+            355
+        </velocidad><regvida>
+            6.5 (+0.65 por nivel)
+        </regvida><regmana>
+            6.5 (+0.45 por nivel)
+        </regmana><armadura>
+            19 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></masteryi><malphite><vida>
+            423 (+90 por nivel)
+        </vida><mana>
+            215 (+40 por nivel)
+        </mana><daño>
+            56.3 (+3.375 por nivel)
+        </daño><velocataque>
+            0.638 (+3.4% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7.45 (+0.55 por nivel)
+        </regvida><regmana>
+            6.4 (+0.55 por nivel)
+        </regmana><armadura>
+            22 (+3.75 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></malphite><malzahar><vida>
+            380 (+80 por nivel)
+        </vida><mana>
+            250 (+45 por nivel)
+        </mana><daño>
+            51.66 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+1.36% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            16 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></malzahar><maokai><vida>
+            421 (+90 por nivel)
+        </vida><mana>
+            250 (+46 por nivel)
+        </mana><daño>
+            58 (+3.3 por nivel)
+        </daño><velocataque>
+            0.694 (+2.125% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7.25 (+0.85 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            22 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></maokai><missfortune><vida>
+            435 (+85 por nivel)
+        </vida><mana>
+            212 (+38 por nivel)
+        </mana><daño>
+            46.5 (+3 por nivel)
+        </daño><velocataque>
+            0.656 (+3.01% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5.1 (+0.65 por nivel)
+        </regvida><regmana>
+            6.95 (+0.65 por nivel)
+        </regmana><armadura>
+            19 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></missfortune><mordekaiser><vida>
+            421 (+80 por nivel)
+        </vida><mana>
+            212 (+38 por nivel)
+        </mana><daño>
+            51.7 (+3.5 por nivel)
+        </daño><velocataque>
+            0.694 (+3% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            7.45 (+0.55 por nivel)
+        </regvida><regmana>
+            6.95 (+0.65 por nivel)
+        </regmana><armadura>
+            19 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></mordekaiser><morgana><vida>
+            403 (+86 por nivel)
+        </vida><mana>
+            240 (+60 por nivel)
+        </mana><daño>
+            51.58 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+1.53% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.7 (+0.6 por nivel)
+        </regvida><regmana>
+            6.8 (+0.65 por nivel)
+        </regmana><armadura>
+            19 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></morgana><nami><vida>
+            365 (+74 por nivel)
+        </vida><mana>
+            305 (+43 por nivel)
+        </mana><daño>
+            48 (+3.1 por nivel)
+        </daño><velocataque>
+            0.644 (+2.61% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            13 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></nami><nasus><vida>
+            410 (+90 por nivel)
+        </vida><mana>
+            200 (+45 por nivel)
+        </mana><daño>
+            53.3 (+3.5 por nivel)
+        </daño><velocataque>
+            0.638 (+3.48% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.5 (+0.9 por nivel)
+        </regvida><regmana>
+            6.6 (+0.5 por nivel)
+        </regmana><armadura>
+            19 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></nasus><nautilus><vida>
+            432 (+86 por nivel)
+        </vida><mana>
+            200 (+50 por nivel)
+        </mana><daño>
+            52 (+3.3 por nivel)
+        </daño><velocataque>
+            0.613 (+1% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            7.45 (+0.55 por nivel)
+        </regvida><regmana>
+            7.45 (+0.7 por nivel)
+        </regmana><armadura>
+            21 (+3.25 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></nautilus><nidalee><vida>
+            390 (+90 por nivel)
+        </vida><mana>
+            220 (+45 por nivel)
+        </mana><daño>
+            49 (+3.5 por nivel)
+        </daño><velocataque>
+            0.670 (+3.22% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            5 (+0.6 por nivel)
+        </regvida><regmana>
+            7 (+0.5 por nivel)
+        </regmana><armadura>
+            17 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></nidalee><nocturne><vida>
+            440 (+85 por nivel)
+        </vida><mana>
+            215 (+35 por nivel)
+        </mana><daño>
+            54 (+3.1 por nivel)
+        </daño><velocataque>
+            0.668 (+2.7% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7 (+0.75 por nivel)
+        </regvida><regmana>
+            6 (+0.45 por nivel)
+        </regmana><armadura>
+            21 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></nocturne><nunu><vida>
+            437 (+96 por nivel)
+        </vida><mana>
+            213 (+42 por nivel)
+        </mana><daño>
+            51.06 (+3.45 por nivel)
+        </daño><velocataque>
+            0.625 (+2.25% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.05 (+0.8 por nivel)
+        </regvida><regmana>
+            6.6 (+0.5 por nivel)
+        </regmana><armadura>
+            20.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></nunu><olaf><vida>
+            441 (+93 por nivel)
+        </vida><mana>
+            190 (+45 por nivel)
+        </mana><daño>
+            54.1 (+3.5 por nivel)
+        </daño><velocataque>
+            0.694 (+2.7% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7 (+0.9 por nivel)
+        </regvida><regmana>
+            6.5 (+0.575 por nivel)
+        </regmana><armadura>
+            21 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></olaf><orianna><vida>
+            385 (+79 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            38 (+2.6 por nivel)
+        </daño><velocataque>
+            0.658 (+3.5% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5.95 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.5 por nivel)
+        </regmana><armadura>
+            12 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></orianna><pantheon><vida>
+            433 (+87 por nivel)
+        </vida><mana>
+            210 (+34 por nivel)
+        </mana><daño>
+            50.7 (+2.9 por nivel)
+        </daño><velocataque>
+            0.679 (+2.95% por nivel)
+        </velocataque><velocidad>
+            355
+        </velocidad><regvida>
+            6.75 (+0.65 por nivel)
+        </regvida><regmana>
+            6.6 (+0.45 por nivel)
+        </regmana><armadura>
+            21.1 (+3.9 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></pantheon><poppy><vida>
+            423 (+81 por nivel)
+        </vida><mana>
+            185 (+30 por nivel)
+        </mana><daño>
+            56.3 (+3.375 por nivel)
+        </daño><velocataque>
+            0.638 (+3.35% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.45 (+0.55 por nivel)
+        </regvida><regmana>
+            6.4 (+0.45 por nivel)
+        </regmana><armadura>
+            22 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></poppy><quinn><vida>
+            390 (+85 por nivel)
+        </vida><mana>
+            210 (+35 por nivel)
+        </mana><daño>
+            48 (+3 por nivel)
+        </daño><velocataque>
+            0.668 (+3.1% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.3 (+0.4 por nivel)
+        </regmana><armadura>
+            17.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></quinn><rammus><vida>
+            420 (+86 por nivel)
+        </vida><mana>
+            255 (+33 por nivel)
+        </mana><daño>
+            50 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+2.215% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.5 por nivel)
+        </regmana><armadura>
+            25 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></rammus><renekton><vida>
+            426 (+87 por nivel)
+        </vida><mana>
+            255 (+33 por nivel)
+        </mana><daño>
+            53.12 (+3.1 por nivel)
+        </daño><velocataque>
+            0.665 (+2.65% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            6.7 (+0.75 por nivel)
+        </regvida><regmana>
+            7 (+0.5 por nivel)
+        </regmana><armadura>
+            19.2 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></renekton><rengar><vida>
+            435 (+90 por nivel)
+        </vida><mana>
+            255 (+33 por nivel)
+        </mana><daño>
+            55 (+3 por nivel)
+        </daño><velocataque>
+            0.679 (+2.85% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            3.6 (+0.4 por nivel)
+        </regvida><regmana>
+            7 (+0.5 por nivel)
+        </regmana><armadura>
+            20 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></rengar><riven><vida>
+            414 (+86 por nivel)
+        </vida><mana>
+            255 (+33 por nivel)
+        </mana><daño>
+            51 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+3.5% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            2.5 (+0.5 por nivel)
+        </regvida><regmana>
+            7 (+0.5 por nivel)
+        </regmana><armadura>
+            19 (+3.2 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></riven><rumble><vida>
+            450 (+80 por nivel)
+        </vida><mana>
+            255 (+33 por nivel)
+        </mana><daño>
+            55.66 (+3.2 por nivel)
+        </daño><velocataque>
+            0.644 (+1.85% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7 (+0.6 por nivel)
+        </regvida><regmana>
+            7 (+0.5 por nivel)
+        </regmana><armadura>
+            20 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></rumble><ryze><vida>
+            414 (+86 por nivel)
+        </vida><mana>
+            250 (+55 por nivel)
+        </mana><daño>
+            52 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.112% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            4.35 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            15 (+3.9 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></ryze><sejuani><vida>
+            440 (+95 por nivel)
+        </vida><mana>
+            220 (+40 por nivel)
+        </mana><daño>
+            52 (+3.3 por nivel)
+        </daño><velocataque>
+            0.670 (+1.44% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            7.25 (+0.85 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            24.5 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></sejuani><shaco><vida>
+            441 (+84 por nivel)
+        </vida><mana>
+            230 (+40 por nivel)
+        </mana><daño>
+            51.7 (+3.5 por nivel)
+        </daño><velocataque>
+            0.694 (+3% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.45 (+0.55 por nivel)
+        </regvida><regmana>
+            6.4 (+0.45 por nivel)
+        </regmana><armadura>
+            19 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></shaco><shen><vida>
+            428 (+85 por nivel)
+        </vida><mana>
+            200
+        </mana><daño>
+            54.5 (+3.375 por nivel)
+        </daño><velocataque>
+            0.651 (+3.4% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7.45 (+0.55 por nivel)
+        </regvida><regmana>
+            50
+        </regmana><armadura>
+            19 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></shen><shyvana><vida>
+            435 (+95 por nivel)
+        </vida><mana>
+            200
+        </mana><daño>
+            55 (+3.4 por nivel)
+        </daño><velocataque>
+            0.658 (+2.5% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.25 (+0.8 por nivel)
+        </regvida><regmana>
+            50
+        </regmana><armadura>
+            22 (+3.35 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></shyvana><singed><vida>
+            405 (+82 por nivel)
+        </vida><mana>
+            215 (+45 por nivel)
+        </mana><daño>
+            56.65 (+3.375 por nivel)
+        </daño><velocataque>
+            0.613 (+1.81% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.1 (+0.55 por nivel)
+        </regvida><regmana>
+            6.6 (+0.55 por nivel)
+        </regmana><armadura>
+            22 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></singed><sion><vida>
+            403 (+104 por nivel)
+        </vida><mana>
+            200 (+40 por nivel)
+        </mana><daño>
+            55.52 (+3.1875 por nivel)
+        </daño><velocataque>
+            0.625 (+1.63% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.9 (+0.95 por nivel)
+        </regvida><regmana>
+            6.3 (+0.4 por nivel)
+        </regmana><armadura>
+            21.75 (+3.25 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></sion><sivir><vida>
+            378 (+82 por nivel)
+        </vida><mana>
+            200 (+50 por nivel)
+        </mana><daño>
+            49 (+3 por nivel)
+        </daño><velocataque>
+            0.658 (+1.6% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.25 (+0.55 por nivel)
+        </regvida><regmana>
+            6.5 (+0.9 por nivel)
+        </regmana><armadura>
+            16.75 (+3.25 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></sivir><skarner><vida>
+            440 (+96 por nivel)
+        </vida><mana>
+            205 (+40 por nivel)
+        </mana><daño>
+            54.1 (+4.2 por nivel)
+        </daño><velocataque>
+            0.625 (+2.1% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.5 (+0.85 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            23 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></skarner><sona><vida>
+            353 (+77 por nivel)
+        </vida><mana>
+            265 (+45 por nivel)
+        </mana><daño>
+            47 (+3 por nivel)
+        </daño><velocataque>
+            0.644 (+2.3% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.65 por nivel)
+        </regmana><armadura>
+            15 (+3.3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></sona><soraka><vida>
+            405 (+76 por nivel)
+        </vida><mana>
+            240 (+60 por nivel)
+        </mana><daño>
+            48.8 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.14% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.8 (+0.65 por nivel)
+        </regmana><armadura>
+            17 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></soraka><swain><vida>
+            385 (+78 por nivel)
+        </vida><mana>
+            240 (+50 por nivel)
+        </mana><daño>
+            49 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.11% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            6.75 (+0.65 por nivel)
+        </regvida><regmana>
+            6.8 (+0.65 por nivel)
+        </regmana><armadura>
+            16 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></swain><syndra><vida>
+            380 (+78 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            51 (+2.9 por nivel)
+        </daño><velocataque>
+            0.625 (+2% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            5.5 (+0.6 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            19 (+3.4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></syndra><talon><vida>
+            440 (+85 por nivel)
+        </vida><mana>
+            260 (+40 por nivel)
+        </mana><daño>
+            50 (+3.1 por nivel)
+        </daño><velocataque>
+            0.668 (+2.7% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.25 (+0.75 por nivel)
+        </regvida><regmana>
+            6.75 (+0.5 por nivel)
+        </regmana><armadura>
+            21 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></talon><taric><vida>
+            468 (+90 por nivel)
+        </vida><mana>
+            255 (+56 por nivel)
+        </mana><daño>
+            52 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+2.02% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            7.1 (+0.5 por nivel)
+        </regvida><regmana>
+            4.1 (+0.4 por nivel)
+        </regmana><armadura>
+            20.5 (+3.2 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></taric><teemo><vida>
+            378 (+82 por nivel)
+        </vida><mana>
+            200 (+40 por nivel)
+        </mana><daño>
+            44.5 (+3 por nivel)
+        </daño><velocataque>
+            0.690 (+3.38% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            4.65 (+0.65 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            18 (+3.75 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></teemo><thresh><vida>
+            411 (+89 por nivel)
+        </vida><mana>
+            200 (+44 por nivel)
+        </mana><daño>
+            46 (+2.2 por nivel)
+        </daño><velocataque>
+            0.625 (+3.5% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            6 (+0.55 por nivel)
+        </regvida><regmana>
+            5 (+0.7 por nivel)
+        </regmana><armadura>
+            16 (+0 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></thresh><tristana><vida>
+            415 (+82 por nivel)
+        </vida><mana>
+            193 (+32 por nivel)
+        </mana><daño>
+            46.5 (+3 por nivel)
+        </daño><velocataque>
+            0.656 (+4% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5.1 (+0.65 por nivel)
+        </regvida><regmana>
+            6.45 (+0.45 por nivel)
+        </regmana><armadura>
+            19 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></tristana><trundle><vida>
+            455 (+96 por nivel)
+        </vida><mana>
+            206 (+45 por nivel)
+        </mana><daño>
+            55 (+3 por nivel)
+        </daño><velocataque>
+            0.670 (+2.9% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            8 (+0.85 por nivel)
+        </regvida><regmana>
+            6.5 (+0.6 por nivel)
+        </regmana><armadura>
+            23 (+2.7 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></trundle><tryndamere><vida>
+            461 (+98 por nivel)
+        </vida><mana>
+            206 (+45 por nivel)
+        </mana><daño>
+            56 (+3.2 por nivel)
+        </daño><velocataque>
+            0.670 (+2.9% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7 (+0.9 por nivel)
+        </regvida><regmana>
+            6.5 (+0.6 por nivel)
+        </regmana><armadura>
+            18.9 (+3.1 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></tryndamere><twistedfate><vida>
+            384 (+82 por nivel)
+        </vida><mana>
+            202 (+38 por nivel)
+        </mana><daño>
+            46.41 (+3.3 por nivel)
+        </daño><velocataque>
+            0.651 (+3.22% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            4.5 (+0.6 por nivel)
+        </regvida><regmana>
+            6.5 (+0.5 por nivel)
+        </regmana><armadura>
+            15.25 (+3.15 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></twistedfate><twitch><vida>
+            389 (+81 por nivel)
+        </vida><mana>
+            220 (+40 por nivel)
+        </mana><daño>
+            46 (+3 por nivel)
+        </daño><velocataque>
+            0.679 (+3.38% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            5 (+0.6 por nivel)
+        </regvida><regmana>
+            6.5 (+0.45 por nivel)
+        </regmana><armadura>
+            18 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></twitch><udyr><vida>
+            427 (+99 por nivel)
+        </vida><mana>
+            220 (+30 por nivel)
+        </mana><daño>
+            52.91 (+3.2 por nivel)
+        </daño><velocataque>
+            0.658 (+2.67% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.45 (+0.75 por nivel)
+        </regvida><regmana>
+            6.75 (+0.45 por nivel)
+        </regmana><armadura>
+            18.75 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></udyr><urgot><vida>
+            437 (+89 por nivel)
+        </vida><mana>
+            220 (+55 por nivel)
+        </mana><daño>
+            48 (+3.6 por nivel)
+        </daño><velocataque>
+            0.644 (+2.9% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            5.5 (+0.6 por nivel)
+        </regvida><regmana>
+            7.5 (+0.65 por nivel)
+        </regmana><armadura>
+            19 (+3.3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></urgot><varus><vida>
+            400 (+82 por nivel)
+        </vida><mana>
+            250 (+36 por nivel)
+        </mana><daño>
+            46 (+3 por nivel)
+        </daño><velocataque>
+            0.658 (+3% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.5 (+0.5 por nivel)
+        </regmana><armadura>
+            17.5 (+3.4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></varus><vayne><vida>
+            359 (+83 por nivel)
+        </vida><mana>
+            173 (+35 por nivel)
+        </mana><daño>
+            50 (+3.25 por nivel)
+        </daño><velocataque>
+            0.658 (+4% por nivel)
+        </velocataque><velocidad>
+            330
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.3 (+0.4 por nivel)
+        </regmana><armadura>
+            13.3 (+3.4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></vayne><veigar><vida>
+            355 (+82 por nivel)
+        </vida><mana>
+            250 (+55 por nivel)
+        </mana><daño>
+            48.3 (+2.625 por nivel)
+        </daño><velocataque>
+            0.625 (+2.24% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6.9 (+0.6 por nivel)
+        </regmana><armadura>
+            16.25 (+3.75 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></veigar><velkoz><vida>
+            380 (+76 por nivel)
+        </vida><mana>
+            250 (+45 por nivel)
+        </mana><daño>
+            51.66 (+3.14159265359 por nivel)
+        </daño><velocataque>
+            0.625 (+1.36% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            7 (+0.6 por nivel)
+        </regmana><armadura>
+            16 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></velkoz><vi><vida>
+            440 (+85 por nivel)
+        </vida><mana>
+            220 (+45 por nivel)
+        </mana><daño>
+            50 (+3.5 por nivel)
+        </daño><velocataque>
+            0.644 (+2.5% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            7.5 (+0.9 por nivel)
+        </regvida><regmana>
+            7 (+0.65 por nivel)
+        </regmana><armadura>
+            20 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></vi><viktor><vida>
+            385 (+78 por nivel)
+        </vida><mana>
+            240 (+50 por nivel)
+        </mana><daño>
+            49 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.11% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            6.75 (+0.65 por nivel)
+        </regvida><regmana>
+            6.9 (+0.45 por nivel)
+        </regmana><armadura>
+            16 (+4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></viktor><vladimir><vida>
+            400 (+85 por nivel)
+        </vida><mana>
+            240 (+50 por nivel)
+        </mana><daño>
+            45 (+3 por nivel)
+        </daño><velocataque>
+            0.658 (+2% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            6 (+0.6 por nivel)
+        </regvida><regmana>
+            6.9 (+0.45 por nivel)
+        </regmana><armadura>
+            16 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></vladimir><volibear><vida>
+            440 (+86 por nivel)
+        </vida><mana>
+            220 (+30 por nivel)
+        </mana><daño>
+            54 (+3.3 por nivel)
+        </daño><velocataque>
+            0.658 (+2.67% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7 (+0.65 por nivel)
+        </regvida><regmana>
+            7 (+0.65 por nivel)
+        </regmana><armadura>
+            20.5 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></volibear><warwick><vida>
+            428 (+98 por nivel)
+        </vida><mana>
+            190 (+30 por nivel)
+        </mana><daño>
+            56.76 (+3.375 por nivel)
+        </daño><velocataque>
+            0.679 (+2.88% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7.05 (+0.8 por nivel)
+        </regvida><regmana>
+            7.1 (+0.6 por nivel)
+        </regmana><armadura>
+            20 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></warwick><monkeyking><vida>
+            435 (+85 por nivel)
+        </vida><mana>
+            202 (+38 por nivel)
+        </mana><daño>
+            54.5 (+3.2 por nivel)
+        </daño><velocataque>
+            0.658 (+3% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            5.1 (+0.65 por nivel)
+        </regvida><regmana>
+            6.95 (+0.65 por nivel)
+        </regmana><armadura>
+            19 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></monkeyking><xerath><vida>
+            380 (+80 por nivel)
+        </vida><mana>
+            238 (+47 por nivel)
+        </mana><daño>
+            51.66 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+1.36% por nivel)
+        </velocataque><velocidad>
+            340
+        </velocidad><regvida>
+            4.5 (+0.55 por nivel)
+        </regvida><regmana>
+            6 (+0.65 por nivel)
+        </regmana><armadura>
+            16 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></xerath><xinzhao><vida>
+            445 (+87 por nivel)
+        </vida><mana>
+            215 (+35 por nivel)
+        </mana><daño>
+            52 (+3.3 por nivel)
+        </daño><velocataque>
+            0.672 (+2.6% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7 (+0.7 por nivel)
+        </regvida><regmana>
+            6.5 (+0.45 por nivel)
+        </regmana><armadura>
+            20 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></xinzhao><yasuo><vida>
+            430 (+82 por nivel)
+        </vida><mana>
+            215 (+35 por nivel)
+        </mana><daño>
+            50 (+3.2 por nivel)
+        </daño><velocataque>
+            0.658 (+3.2% por nivel)
+        </velocataque><velocidad>
+            350
+        </velocidad><regvida>
+            5 (+0.9 por nivel)
+        </regvida><regmana>
+            6.5 (+0.45 por nivel)
+        </regmana><armadura>
+            19 (+3.4 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></yasuo><yorick><vida>
+            421 (+85 por nivel)
+        </vida><mana>
+            235 (+35 por nivel)
+        </mana><daño>
+            51.7 (+3.5 por nivel)
+        </daño><velocataque>
+            0.625 (+3% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            7 (+0.7 por nivel)
+        </regvida><regmana>
+            6 (+0.45 por nivel)
+        </regmana><armadura>
+            19 (+3.6 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></yorick><zac><vida>
+            455 (+95 por nivel)
+        </vida><mana>
+            235 (+35 por nivel)
+        </mana><daño>
+            54 (+3.375 por nivel)
+        </daño><velocataque>
+            0.638 (+1.6% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            7 (+0.55 por nivel)
+        </regvida><regmana>
+            6 (+0.45 por nivel)
+        </regmana><armadura>
+            18 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></zac><zed><vida>
+            445 (+80 por nivel)
+        </vida><mana>
+            200
+        </mana><daño>
+            49 (+3.4 por nivel)
+        </daño><velocataque>
+            0.658 (+3.1% por nivel)
+        </velocataque><velocidad>
+            345
+        </velocidad><regvida>
+            6 (+0.65 por nivel)
+        </regvida><regmana>
+            50
+        </regmana><armadura>
+            21 (+3.5 por nivel)
+        </armadura><armamagica>
+            30 (+1.25 por nivel)
+        </armamagica></zed><ziggs><vida>
+            390 (+80 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            51 (+3.1 por nivel)
+        </daño><velocataque>
+            0.656 (+2% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            5.25 (+0.6 por nivel)
+        </regvida><regmana>
+            6.75 (+0.6 por nivel)
+        </regmana><armadura>
+            16 (+3.3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></ziggs><zilean><vida>
+            380 (+71 por nivel)
+        </vida><mana>
+            260 (+60 por nivel)
+        </mana><daño>
+            48.6 (+3 por nivel)
+        </daño><velocataque>
+            0.625 (+2.13% por nivel)
+        </velocataque><velocidad>
+            335
+        </velocidad><regvida>
+            4.6 (+0.5 por nivel)
+        </regvida><regmana>
+            6.95 (+0.65 por nivel)
+        </regmana><armadura>
+            10.75 (+3.8 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></zilean><zyra><vida>
+            355 (+74 por nivel)
+        </vida><mana>
+            250 (+50 por nivel)
+        </mana><daño>
+            50 (+3.2 por nivel)
+        </daño><velocataque>
+            0.625 (+2.11% por nivel)
+        </velocataque><velocidad>
+            325
+        </velocidad><regvida>
+            4.85 (+0.5 por nivel)
+        </regvida><regmana>
+            7.1 (+0.75 por nivel)
+        </regmana><armadura>
+            15 (+3 por nivel)
+        </armadura><armamagica>
+            30 (+0 por nivel)
+        </armamagica></zyra></campeones>
